@@ -1,1 +1,44 @@
 # Zahra-profile
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Zahra</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            background: white;
+            width: 350px;
+            margin: 50px auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+        img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <img src="foto.jpg" alt="Foto Zahra">
+    <h1>Zahra Artalita</h1>
+    <p><b>Nama Panggilan:</b> Zahra</p>
+    <p><b>Nama Sekolah:</b> SMK ITABA</p>
+    <p><b>Kelas:</b> XI DKV 1</p>
+    <p><b>Hobi:</b> Membaca</p>
+    <p><b>Cita-cita:</b> Menjadi pengusaha sukses</p>
+    <p><b>Skill:</b> Microsoft Office, Editing Video</p>
+</div>
+
+</body>
+</html>
